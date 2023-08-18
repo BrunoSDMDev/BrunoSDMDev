@@ -8,8 +8,8 @@
   
 <div>
   <a href="https://github.com/Fawnsteak">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fawnsteak&show_icons=true&theme=nightowl&include_all_commits"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawnsteak&layout=compact&theme=nightowl"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=fawnsteak&show_icons=true&theme=nightowl&include_all_commits"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawnsteak&layout=compact&theme=nightowl"/>
 </div>
 
 
