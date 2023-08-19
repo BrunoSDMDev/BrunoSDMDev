@@ -8,7 +8,7 @@
   
 <div>
   <a href="https://github.com/BrunoSDMDev">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&theme=nightowl&include_all_commits"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&theme=nightowl&include_all_commits=true&rank_icon=github"/>
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSDMDev&layout=compact&theme=nightowl"/>
 </div>
 
