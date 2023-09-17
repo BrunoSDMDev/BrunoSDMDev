@@ -9,10 +9,11 @@
   
 <div>
   <a href="https://github.com/BrunoSDMDev">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&theme=transparent&rank_icon=github"/>
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSDMDev&layout=compact&theme=transparent"/>
    
 </div>
+<br>
 
 <img height="145em" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&no-bg=true&no-frame=true&theme=discord&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/>
 
