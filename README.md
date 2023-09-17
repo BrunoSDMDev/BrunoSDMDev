@@ -3,6 +3,7 @@
 <br>
 <br> 
 <img src= "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+
 <br>
 <br>
   
@@ -10,8 +11,10 @@
   <a href="https://github.com/BrunoSDMDev">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&include_all_commits=true&theme=transparent&rank_icon=github"/>
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSDMDev&layout=compact&theme=transparent"/>
+   
 </div>
 
+<img height="145em" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&no-bg=true&no-frame=true&theme=discord&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/>
 
 <h2 align="center">Skills & Languages <img width="30" src= "https://slackmojis.com/emojis/40714-computer/download"</h2>
 <hr>
