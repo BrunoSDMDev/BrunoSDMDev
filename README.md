@@ -15,7 +15,7 @@
 </div>
 <br>
 
-<!-- <img height="145em" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> -->
+<img height="145em" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> 
 
 <h2 align="center">Skills & Languages <img width="30" src= "https://slackmojis.com/emojis/40714-computer/download"</h2>
 <hr>
