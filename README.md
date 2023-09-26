@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi! I'm Bruno Silva. Welcome to my Github! <img width="30" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" </h1>
+<h1 align="center"> Hi! I'm <em>Bruno Silva</em>. Welcome to my Github! <img width="30" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" </h1>
 <br>
 <br> 
 <img src= "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
@@ -17,7 +17,7 @@
 
 <img height="145em" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> 
 
-<h2 align="center">Skills & Languages <img width="30" src= "https://slackmojis.com/emojis/40714-computer/download"</h2>
+<h2 align="center"> <em> Skills & Languages </em> <img width="30" src= "https://slackmojis.com/emojis/40714-computer/download"</h2>
 <hr>
 
 
@@ -29,7 +29,7 @@
 </p>
 <img src= "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<h2 align="center">Learning <img width="30" src= "https://slackmojis.com/emojis/14740-pc_computer/download"</h2>
+<h2 align="center"> <em> Learning </em> <img width="30" src= "https://slackmojis.com/emojis/14740-pc_computer/download"</h2>
   <br>
   <hr>
   
@@ -41,7 +41,7 @@
 </p>
   <img src= "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<h2 align="center">Contact <img width="30" src= "https://slackmojis.com/emojis/22296-smartphone/download"</h2>
+<h2 align="center"> <em> Contact </em> <img width="30" src= "https://slackmojis.com/emojis/22296-smartphone/download"</h2>
 <hr>
 <div> 
   
