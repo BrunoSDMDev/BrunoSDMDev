@@ -1,7 +1,6 @@
 
 <h1 align="center"> Hi! I'm <em>Bruno Silva</em>. Welcome to my Github! <img width="30" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" </h1>
-<br>
-<br> 
+
 <img src= "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
 <br>
