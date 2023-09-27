@@ -4,7 +4,7 @@ Science and Technology student and aspiring software developer with a focus on J
 
 Interested in building interactive and scalable systems.
 
-## About Me
+##  <em> About Me </em>
 
 <img align="right" alt="Chillin" width="180" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" /> 
 
@@ -26,8 +26,8 @@ Interested in building interactive and scalable systems.
 
 <div align="center">
   <a href="https://github.com/BrunoSDMDev">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&theme=transparent&rank_icon=github"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSDMDev&layout=compact&theme=transparent"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&theme=tokyonight&rank_icon=github"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSDMDev&layout=compact&theme=tokyonight"/>
    
 </div>
 
