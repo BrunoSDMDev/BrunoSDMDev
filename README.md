@@ -1,5 +1,7 @@
 <h1 align ="center"> Hi, <em> I'm Bruno Silva </em>  :wave: </h1>
 
+![your_cool_intro](https://github.com/BrunoSDMDev/BrunoSDMDev/assets/134339999/2872cbf1-db0a-41b4-b412-977b484b02a8)
+
 Science and Technology student and aspiring software developer with a focus on Java and clean code.
 
 Interested in building interactive and scalable systems.
@@ -33,9 +35,11 @@ Interested in building interactive and scalable systems.
 
 
 
-<h2 align="center"> <em> Skills & Languages </em> <img width="30" src= "https://slackmojis.com/emojis/40714-computer/download"</h2>
-<hr>
 
+
+<h2 align="center"> <em> Skills & Languages </em> </h2>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,9 +49,9 @@ Interested in building interactive and scalable systems.
 </p>
 <img src= "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<h2 align="center"> <em> Learning </em> <img width="30" src= "https://slackmojis.com/emojis/14740-pc_computer/download"</h2>
+<h2 align="center"> <em> Learning </em></h2>
   <br>
-  <hr>
+
   
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,9 +61,10 @@ Interested in building interactive and scalable systems.
 </p>
   <img src= "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<h2 align="center"> <em> Contact </em> <img width="30" src= "https://slackmojis.com/emojis/22296-smartphone/download"</h2>
-<hr>
-<div> 
+<h2 align="center"> <em> Contact </em> </h2>
+<br>
+
+<div align="center"> 
   
   <a href="https://instagram.com/bruno.sdm02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunosilvadm22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
