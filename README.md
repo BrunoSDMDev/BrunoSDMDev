@@ -6,7 +6,7 @@ Interested in building interactive and scalable systems.
 
 ## About Me
 
-<img align="right" alt="Chillin" width="250" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" /> 
+<img align="right" alt="Chillin" width="170" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" /> 
 
 👨‍🏫 Undergraduate Student in Science and Technology @Federal University of Bahia  
 💻 Back-End Developer
