@@ -6,7 +6,7 @@ Interested in building interactive and scalable systems.
 
 ## About Me
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+<img align="right" alt="Chillin" width="320" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" /> 
 
 👨‍🏫 Undergraduate Student in Science and Technology @Federal University of Bahia  
 💻 Back-End Developer
@@ -22,6 +22,8 @@ Interested in building interactive and scalable systems.
 <div align="center"><img height="145em" align ="center" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> </div>
 
 
+<hr>
+<br> 
 
 <div align="center">
   <a href="https://github.com/BrunoSDMDev">
