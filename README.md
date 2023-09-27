@@ -1,20 +1,36 @@
+<h1 align ="center"> Hi, <em> I'm Bruno Silva </em> :wave: </h1>
 
-<h1 align="center"> Hi! I'm <em>Bruno Silva</em>. Welcome to my Github! <img width="30" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" </h1>
+Science and Technology student and aspiring software developer with a focus on Java and clean code.
 
-<img src= "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+Interested in building interactive and scalable systems.
 
-<br>
-<br>
-  
-<div>
+## About Me
+
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+
+👨‍🏫 Undergraduate Student in Science and Technology @Federal University of Bahia  
+💻 Back-End Developer
+☕ Trainee Back-End Trail @ADA Tech - SantaderCoders2023    
+🌍 Speaker of English @OCF -  ESL Proficiency Pathway
+
+<hr>
+
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=BrunoSDMDev" alt="BrunoSDM's Profile Views" /> <--->
+
+<!-- <img src= "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> <--->
+
+<div align="center"><img height="145em" align ="center" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> </div>
+
+
+
+<div align="center">
   <a href="https://github.com/BrunoSDMDev">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BrunoSDMDev&show_icons=true&theme=transparent&rank_icon=github"/>
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSDMDev&layout=compact&theme=transparent"/>
    
 </div>
-<br>
 
-<img height="145em" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> 
+
 
 <h2 align="center"> <em> Skills & Languages </em> <img width="30" src= "https://slackmojis.com/emojis/40714-computer/download"</h2>
 <hr>
