@@ -1,6 +1,7 @@
 <h1 align ="center"> Hi, <em> I'm Bruno Silva </em>  :wave: </h1>
 
-![your_cool_intro](https://github.com/BrunoSDMDev/BrunoSDMDev/assets/134339999/2872cbf1-db0a-41b4-b412-977b484b02a8)
+<div 
+src= "https://github.com/BrunoSDMDev/BrunoSDMDev/assets/134339999/2872cbf1-db0a-41b4-b412-977b484b02a8"/> </div>
 
 Science and Technology student and aspiring software developer with a focus on Java and clean code.
 
