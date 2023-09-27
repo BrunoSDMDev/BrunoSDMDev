@@ -13,7 +13,6 @@ Interested in building interactive and scalable systems.
 ☕ Trainee Back-End Trail @ADA Tech - SantaderCoders2023    
 🌍 Speaker of English @OCF -  ESL Proficiency Pathway
 
-<hr>
 
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=BrunoSDMDev" alt="BrunoSDM's Profile Views" /> <--->
 
