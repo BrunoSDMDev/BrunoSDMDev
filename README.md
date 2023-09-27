@@ -1,11 +1,12 @@
 <h1 align ="center"> Hi, <em> I'm Bruno Silva </em>  :wave: </h1>
+<div align="center">
+<img alt="your_cool_intro" src=
+"https://github.com/BrunoSDMDev/BrunoSDMDev/assets/134339999/abe2144b-0e6d-4c98-8b4e-929b74288a55"/>
+</div>
+<br>
+<Strong> <em> Science and Technology student and aspiring software developer with a focus on Java and clean code.
 
-<div 
-src= "https://github.com/BrunoSDMDev/BrunoSDMDev/assets/134339999/2872cbf1-db0a-41b4-b412-977b484b02a8"/> </div>
-
-Science and Technology student and aspiring software developer with a focus on Java and clean code.
-
-Interested in building interactive and scalable systems.
+Interested in building interactive and scalable systems.</em> </Strong>
 
 ##  <em> About Me </em>
 
