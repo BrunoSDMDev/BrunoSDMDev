@@ -1,9 +1,11 @@
 <h1 align ="center"> Hi, <em> I'm Bruno Silva </em>  :wave: </h1>
+
 <div align="center">
 <img alt="your_cool_intro" src=
 "https://github.com/BrunoSDMDev/BrunoSDMDev/assets/134339999/abe2144b-0e6d-4c98-8b4e-929b74288a55"/>
 </div>
 <br>
+
 <Strong> <em> Science and Technology student and aspiring software developer with a focus on Java and clean code.
 
 Interested in building interactive and scalable systems.</em> </Strong>
@@ -24,7 +26,6 @@ Interested in building interactive and scalable systems.</em> </Strong>
 
 <div align="center"><img height="145em" align ="center" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> </div>
 
-
 <hr>
 <br> 
 
@@ -35,12 +36,7 @@ Interested in building interactive and scalable systems.</em> </Strong>
    
 </div>
 
-
-
-
-
 <h2 align="center"> <em> Skills & Languages </em> </h2>
-
 <br>
 
 <p align="center">
@@ -54,7 +50,6 @@ Interested in building interactive and scalable systems.</em> </Strong>
 <h2 align="center"> <em> Learning </em></h2>
   <br>
 
-  
 <p align="center">
   <a href="https://skillicons.dev">
     <img height="35" 
@@ -67,7 +62,6 @@ Interested in building interactive and scalable systems.</em> </Strong>
 <br>
 
 <div align="center"> 
-  
   <a href="https://instagram.com/bruno.sdm02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunosilvadm22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunosdmdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
