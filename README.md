@@ -24,7 +24,7 @@ Interested in building interactive and scalable systems.</em> </Strong>
 
 <!-- <img src= "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> <--->
 
-<div align="center"><img height="145em" align ="center" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> </div>
+<!-- <div align="center"><img height="145em" align ="center" src="https://github-profile-trophy.vercel.app/?username=BrunoSDMDev&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> </div> <--->
 
 <hr>
 <br> 
